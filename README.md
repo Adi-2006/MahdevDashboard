@@ -61,13 +61,13 @@ Most profitable sub-categories:
 
 ## 🕓 Filters/Controls
 - Quarterly filters: **Qtr 1**, **Qtr 2**, **Qtr 3**, **Qtr 4**
-- Global filter: **All**
+- State Wise filter: **All**
 
 ---
 
 ## 🛠 Tools Used
 - **Power BI**: For data visualization and dashboard creation  
-- **Excel/CSV Source**: (Assumed) source of raw ecommerce data
+- **CSV Source**:  source of raw ecommerce data
 
 ---
 
@@ -88,6 +88,9 @@ This dashboard can be used by:
 ---
 
 ## 📎 Screenshot
+![Dashboard Screenshot](Mahadev.png)
+
+## 📎 Dashboard
 ![Dashboard Screenshot](Mahadev.png)
 
 ---
