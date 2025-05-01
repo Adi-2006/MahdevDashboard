@@ -90,8 +90,6 @@ This dashboard can be used by:
 ## 📎 Screenshot
 ![Dashboard Screenshot](Mahadev.png)
 
-## 📎 Dashboard
-![Dashboard Screenshot](Mahadev.png)
 
 ---
 
